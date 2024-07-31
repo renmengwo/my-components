@@ -1,0 +1,5 @@
+packages:
+  - 'packages/*'
+  - 'packages/vue-components'
+  - 'packages/react-components'
+  - 'docs'
