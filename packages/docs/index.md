@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "My Awesome Project"
   text: "一个支持vue和react的组件库"
-  tagline: My great project tagline
+  tagline: 使用一个组件库同时支持vue和react
     # actions:
     #  - theme: brand
     #    text: Markdown Examples

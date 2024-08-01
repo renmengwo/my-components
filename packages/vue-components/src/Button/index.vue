@@ -1,5 +1,5 @@
 <template>
-  <button>这是vue的按钮</button>
+  <button>这是使用vue写的的按钮</button>
 </template>
 
 <script lang="ts" setup>

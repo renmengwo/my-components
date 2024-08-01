@@ -21,7 +21,11 @@ import { Button } from 'vue-components';
 ```
 ## react 版本
 
-<ReactButton />
+### 效果展示
+
+<ReactComponentWrapper :component="() => import('../button/index.tsx')" />
+
+### 使用方法
 
 ```jsx  
 import { Button } from 'react-components';

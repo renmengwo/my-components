@@ -5,7 +5,7 @@ interface ButtonProps {
 }
 
 const Button: React.FC<ButtonProps> = ({ label }) => {
-    return <button>这是react的按钮</button>;
+    return <button>这是使用react写的的按钮</button>;
 };
 
 export default Button;

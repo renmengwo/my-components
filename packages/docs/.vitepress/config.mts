@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 import { fileURLToPath, URL } from 'node:url'
 import { containerPreview, componentPreview } from '@vitepress-demo-preview/plugin'
 // https://vitepress.dev/reference/site-config
+// @ts-ignore
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
